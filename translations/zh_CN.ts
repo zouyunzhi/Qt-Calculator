@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh-CN">
+<context>
+    <name>Calculator</name>
+    <message>
+        <source>计算器</source>
+        <translation>计算器</translation>
+    </message>
+    <message>
+        <source>计算器 1.0.0</source>
+        <translation>计算器 1.0.0</translation>
+    </message>
+    <message>
+        <source>语言</source>
+        <translation>语言</translation>
+    </message>
+    <message>
+        <source>关于</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <source>关于计算器</source>
+        <translation>关于计算器</translation>
+    </message>
+    <message>
+        <source>关于Qt</source>
+        <translation>关于Qt</translation>
+    </message>
+    <message>
+        <source>关于qt</source>
+        <translation>关于Qt</translation>
+    </message>
+    <message>
+        <source>语言切换</source>
+        <translation>语言切换</translation>
+    </message>
+    <message>
+        <source>已切换到语言:%1</source>
+        <translation>已切换到语言:%1</translation>
+    </message>
+    <message>
+        <source>提示</source>
+        <translation>提示</translation>
+    </message>
+    <message>
+        <source>表达式为空，请先输入表达式!</source>
+        <translation>表达式为空，请先输入表达式!</translation>
+    </message>
+    <message>
+        <source>计算完成</source>
+        <translation>计算完成</translation>
+    </message>
+    <message>
+        <source>计算完成啦————快去查看结果吧!</source>
+        <translation>计算完成啦————快去查看结果吧!</translation>
+    </message>
+    <message>
+        <source>计算错误</source>
+        <translation>计算错误</translation>
+    </message>
+    <message>
+        <source>表达式语法错误!请重新输入表达式</source>
+        <translation>表达式语法错误!请重新输入表达式</translation>
+    </message>
+    <message>
+        <source>运行错误</source>
+        <translation>运行错误</translation>
+    </message>
+    <message>
+        <source>计算失败!错误原因:%1</source>
+        <translation>计算失败!错误原因:%1</translation>
+    </message>
+    <message>
+        <source>错误</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>无法加载翻译文件!</source>
+        <translation>无法加载翻译文件!</translation>
+    </message>
+    <message>
+        <source>计算器 1.0.0
+作者：邹允之
+这是一个简单优雅的计算器应用，有加减乘除计算这些基本功能</source>
+        <translation>计算器 1.0.0
+作者：邹允之
+这是一个简单优雅的计算器应用，有加减乘除计算这些基本功能</translation>
+    </message>
+</context>
+</TS>
